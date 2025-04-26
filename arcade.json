@@ -1,0 +1,33 @@
+{
+	"name": "coin mine",
+	"version": "1.0.0.0",
+	"description": "",
+	"id": "",
+	"unique-id": "8tic6glhl0d",
+	"viewport-width": 480,
+	"viewport-height": 854,
+	"author": "Breno Martins",
+	"email": "",
+	"website": "",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r432.3",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Touch",
+		"TiledBg",
+		"Particles",
+		"Text",
+		"Audio",
+		"AJAX",
+		"Button",
+		"TextBox"
+	],
+	"used-behaviors": [
+		"solid",
+		"Bullet",
+		"Platform",
+		"bound"
+	]
+}
